@@ -67,3 +67,9 @@ The gem assumes that you have https access to the pivotal tracker
 * [Alastair Mair](https://github.com/amair)
 * [John-Mason P. Shackelford](https://github.com/jpshackelford)
 * [Bret Mogilefsky](https://github.com/mogul)
+
+## Things I'd like to add...
+* include project name when running, to deal with multiple projects
+* make owner name much bigger
+* make tags bigger
+* add iteration/story location onto the card (e.g. "Iteration 24")
